@@ -1,0 +1,34 @@
+div.main {
+    margin-top: 80px;
+    padding-top: 200px;
+    background-color: blue;
+    border: 2px solid red;
+    padding-bottom: 200px;
+}
+
+.main {
+    text-align: center;
+}
+
+.btm {
+    padding: 25px;
+    margin: 15px;
+    font-size: larger;
+}
+
+#inputi {
+    padding: 20px;
+}
+
+#inputj {
+    padding: 20px;
+}
+
+.calcu {
+    font-family: cursive;
+}
+
+#output {
+    font-family: cursive;
+    font-size: 50px;
+}
